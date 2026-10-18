@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#174f43"
+backgroundColor = "#f6f7f1"
+secondaryBackgroundColor = "#eef1e9"
+textColor = "#16221f"
+borderColor = "#e3e8df"
+showWidgetBorder = true
+baseRadius = "small"
+buttonRadius = "small"
+font = "DM Sans:https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "Barlow Condensed:https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap"
+
+[server]
+maxUploadSize = 200
